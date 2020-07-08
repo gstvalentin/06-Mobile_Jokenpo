@@ -2,7 +2,7 @@
 
 Aplicativo criado durante a aula do curso [Apps Fluter](https://www.udemy.com/course/web-completo/) utilizando linguagem .dart e API do site oficial do youtube
 
-Demonstração do app
+DemonstraÃ§Ã£o do app
 
-![demonstracao](demonstracao.png)
+![demonstracao](demonstracao.gif)
 
